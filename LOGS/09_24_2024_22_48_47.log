@@ -1,0 +1,16 @@
+[2024-09-24 22:48:48,306] 12 pinecone_plugin_interface.logging - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\Desktop\\sheenu\\Medical_Chatbot_using_Llama2-2-\\env\\lib\\site-packages\\pinecone_plugins'])
+[2024-09-24 22:48:48,308] 9 pinecone_plugin_interface.logging - INFO - Looking for plugins in pinecone_plugins.inference
+[2024-09-24 22:48:48,341] 10 pinecone_plugin_interface.logging - INFO - Installing plugin inference into Pinecone
+[2024-09-24 22:48:50,710] 16 root - INFO - downloading embedding
+[2024-09-24 22:48:58,441] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-09-24 22:48:59,852] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[2024-09-24 22:48:59,852] 18 root - INFO - embedding downloaded
+[2024-09-24 22:48:59,865] 36 root - INFO - 1
+[2024-09-24 22:49:00,321] 47 root - INFO - 2
+[2024-09-24 22:49:00,321] 54 root - INFO - 3
+[2024-09-24 22:49:00,354] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.218.34:8080
+[2024-09-24 22:49:00,354] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2024-09-24 22:49:00,356] 97 werkzeug - INFO -  * Restarting with stat

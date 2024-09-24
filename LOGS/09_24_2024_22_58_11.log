@@ -1,0 +1,16 @@
+[2024-09-24 22:58:12,971] 12 pinecone_plugin_interface.logging - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\Desktop\\sheenu\\Medical_Chatbot_using_Llama2-2-\\env\\lib\\site-packages\\pinecone_plugins'])
+[2024-09-24 22:58:12,971] 9 pinecone_plugin_interface.logging - INFO - Looking for plugins in pinecone_plugins.inference
+[2024-09-24 22:58:13,000] 10 pinecone_plugin_interface.logging - INFO - Installing plugin inference into Pinecone
+[2024-09-24 22:58:14,498] 16 root - INFO - downloading embedding
+[2024-09-24 22:58:17,630] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-09-24 22:58:18,582] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[2024-09-24 22:58:18,582] 18 root - INFO - embedding downloaded
+[2024-09-24 22:58:18,584] 36 root - INFO - 1
+[2024-09-24 22:58:18,936] 47 root - INFO - 2
+[2024-09-24 22:58:18,936] 54 root - INFO - 3
+[2024-09-24 22:58:18,936] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-09-24 22:58:18,936] 97 werkzeug - INFO -  * Debugger PIN: 505-129-148
+[2024-09-24 22:58:22,965] 97 werkzeug - INFO - 127.0.0.1 - - [24/Sep/2024 22:58:22] "GET / HTTP/1.1" 200 -
+[2024-09-24 22:58:23,047] 97 werkzeug - INFO - 127.0.0.1 - - [24/Sep/2024 22:58:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-09-24 22:58:54,224] 1038 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-09-24 22:58:54,241] 97 werkzeug - INFO - 127.0.0.1 - - [24/Sep/2024 22:58:54] "POST /get HTTP/1.1" 200 -
